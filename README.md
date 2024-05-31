@@ -1,1 +1,1 @@
-# java-prac-Qs
+# java-prac-Questions
